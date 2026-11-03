@@ -1,6 +1,6 @@
 [project]
 name = "remez-exchange-approximation-py"
-version = "0.1.0"
+version = "0.1.1"
 description = "Computes the minimax polynomial approximation of a function on an interval using the Remez exchange algorithm."
 requires-python = ">=3.10"
 dependencies = []
